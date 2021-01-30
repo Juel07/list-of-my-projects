@@ -1,6 +1,9 @@
 ## General info 🌷
 A collection of all my projects on GitHub. This list is updated regularly.
 
+### A
+- <a href = "https://github.com/Juel07/analog-clock">Analog Clock</a>
+
 ### B
 - <a href = "https://github.com/Juel07/bg-color-changer">Background colour changer</a>
 
