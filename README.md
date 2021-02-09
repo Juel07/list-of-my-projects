@@ -2,7 +2,7 @@
 A collection of all my projects on GitHub. This list is updated regularly.
 
 ### A
-- <a href = "https://github.com/Juel07/analog-clock">Analog Clock</a>
+- <a href = "https://github.com/Juel07/analog-clock">Analog clock</a>
 
 ### B
 - <a href = "https://github.com/Juel07/bg-color-changer">Background colour changer</a>
@@ -10,7 +10,10 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### C
 - <a href = "https://github.com/Juel07/character-counter">Character counter app</a> (JavaScript)
 - <a href = "https://github.com/Juel07/counter">Counter app</a> (JavaScript)
-- <a href = "https://github.com/Juel07/JS-calculator">Calculator app (JavaScript)</a> // work in progress //
+- <a href = "https://github.com/Juel07/JS-calculator">Calculator app</a> (JavaScript) // work in progress //
+
+### D
+- <a href="https://github.com/Juel07/drum-kit">Drum kit</a> (JavaScript)
 
 ### F
 - <a href = "https://github.com/Juel07/Project-fitness-app">Fitness app</a> (React Native)
@@ -23,13 +26,13 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/Juel07/Patient-Progress-Website">Patient Progress website</a>
 
 ### S
-- <a href = "https://github.com/Juel07/song-recommendations-website">Songs recommendation website</a>
+- <a href = "https://github.com/Juel07/song-recommendations-website">Song recommendation website</a>
 
 ### T
 - <a href = "https://github.com/Juel07/to-do-list">To-do list app</a> (JavaScript)
 
 ### U
-- <a href = "https://github.com/Juel07/URL-Shortener">Url shortner website</a> // work in progress //
+- <a href = "https://github.com/Juel07/URL-Shortener">Url shortener website</a> // work in progress //
 
 ### W
 - <a href="https://github.com/Juel07/word-counter">Word counter</a> (JavaScript)
