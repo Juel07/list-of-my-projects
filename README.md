@@ -18,12 +18,18 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### F
 - <a href = "https://github.com/Juel07/Project-fitness-app">Fitness app</a> (React Native)
 
+### G
+- <a href = "https://github.com/Juel07/get-user-info">Get GitHub user's info</a> (jQuery)
+
 ### M
 - <a href = "https://github.com/Juel07/MIELS-website">Miel's restaurant website</a>
 
 ### P
 - <a href = "https://github.com/Juel07/patient-progress-app">Patient Progress app</a> (React Native)
 - <a href = "https://github.com/Juel07/Patient-Progress-Website">Patient Progress website</a>
+
+### R
+- <a href = "https://github.com/Juel07/ruby-practice-exercises">Ruby practice exercises</a>
 
 ### S
 - <a href = "https://github.com/Juel07/song-recommendations-website">Song recommendation website</a>
