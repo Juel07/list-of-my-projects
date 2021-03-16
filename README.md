@@ -38,6 +38,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/Juel07/to-do-list">To-do list app</a> (JavaScript)
 
 ### U
+- <a href = "https://github.com/Juel07/unit-converter">Unit converter (Imperial to Metric)</a> 
 - <a href = "https://github.com/Juel07/URL-Shortener">Url shortener website</a> // work in progress //
 
 ### W
