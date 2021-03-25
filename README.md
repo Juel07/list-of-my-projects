@@ -27,6 +27,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### P
 - <a href = "https://github.com/Juel07/patient-progress-app">Patient Progress app</a> (React Native)
 - <a href = "https://github.com/Juel07/Patient-Progress-Website">Patient Progress website</a>
+- <a href = "https://github.com/Juel07/percentage-change-calculator">Percentage Change Calculator</a>
 
 ### R
 - <a href = "https://github.com/Juel07/ruby-practice-exercises">Ruby practice exercises</a>
