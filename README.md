@@ -31,6 +31,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### R
 - <a href = "https://github.com/Juel07/ruby-practice-exercises">Ruby practice exercises</a>
+- <a href = "https://github.com/Juel07/research-article-finder">Research article finder</a>
 
 ### S
 - <a href = "https://github.com/Juel07/song-recommendations-website">Song recommendation website</a>
