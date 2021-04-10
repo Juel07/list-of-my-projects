@@ -41,7 +41,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### U
 - <a href = "https://github.com/Juel07/unit-converter">Unit converter (Imperial to Metric)</a> 
-- <a href = "https://github.com/Juel07/URL-Shortener">Url shortener website</a> // work in progress //
+- <a href = "https://github.com/Juel07/URL-Shortener">Url shortener website</a>
 
 ### W
 - <a href="https://github.com/Juel07/word-counter">Word counter</a> (JavaScript)
