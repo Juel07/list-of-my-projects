@@ -35,6 +35,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### S
 - <a href = "https://github.com/Juel07/song-recommendations-website">Song recommendation website</a>
+- <a href = "https://scratch.mit.edu/projects/512555091">Scratch game - Beware of Virus</a>
 
 ### T
 - <a href = "https://github.com/Juel07/to-do-list">To-do list app</a> (JavaScript)
