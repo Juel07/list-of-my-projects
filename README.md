@@ -17,6 +17,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### F
 - <a href = "https://github.com/Juel07/Project-fitness-app">Fitness app</a> (React Native)
+- <a href = "https://github.com/Juel07/first-react-project">My first React app</a>
 
 ### G
 - <a href = "https://github.com/Juel07/get-user-info">Get GitHub user's info</a> (jQuery)
